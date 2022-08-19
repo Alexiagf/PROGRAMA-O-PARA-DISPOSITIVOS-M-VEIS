@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="teste">testando inserção por referência</string>
+    <string name="buttonclick">buttonclick</string>
+</resources>
